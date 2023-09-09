@@ -8,3 +8,7 @@ if(nom > 10){
 }else{
   document.write("patta")
 }
+
+var mm = 123;
+
+document.write("suppiri")
