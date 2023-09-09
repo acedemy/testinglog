@@ -11,4 +11,4 @@ if(nom > 10){
 
 var mm = 123;
 
-document.write("suppiri")
+document.write("suppiri");
